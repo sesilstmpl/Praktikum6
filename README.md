@@ -56,7 +56,7 @@ lalu jika user telah selesai menjalankan program, maka input kode 'k'
 
 ## Flowchart
 
-![gambar 10](flowchart.png) 
+![gambar 10](gambar/flowchart.png) 
 
 ## Sekian dan Terimakasih :)
 
